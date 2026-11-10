@@ -16,7 +16,11 @@ __pycache__/
 
 # Configuración de IDE
 .idea/
+.vscode/
 
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+
+# Configuración de Alembic
+alembic.ini
